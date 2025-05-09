@@ -2,6 +2,8 @@
 
 An interactive dashboard for analyzing trends and anomalies in Reddit discourse, with a focus on detecting and understanding unusual spikes in activity.
 
+**Live Demo:** [https://surge-ll4j.onrender.com](https://surge-ll4j.onrender.com)
+
 ## Features
 
 - **Temporal Analysis**: Visualize post volume over time to identify activity spikes
@@ -52,7 +54,9 @@ python app.py
 
 ## Deployment on Render.com
 
-This dashboard is ready for deployment on Render.com. Follow these steps:
+This dashboard is deployed and hosted on Render.com at [https://surge-ll4j.onrender.com](https://surge-ll4j.onrender.com). 
+
+To deploy your own instance, follow these steps:
 
 1. Push this codebase to a GitHub repository:
    - Make sure the `.gitignore` file is properly set up to exclude data files
