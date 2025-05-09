@@ -773,7 +773,6 @@ app.layout = dbc.Container([
                                     dcc.Loading(
                                         id="summary-loading-indicator",
                                         type="default",
-                                        delay_show=500,
                                         children=[html.Div(id='trend-summary-output', children=[
                                             dbc.Card(
                                                 dbc.CardBody([
