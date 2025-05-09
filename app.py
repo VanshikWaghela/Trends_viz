@@ -1630,3 +1630,6 @@ if __name__ == '__main__':
     # debug=True is helpful during development as it enables live reloading and error messages in the browser.
     # Turn it off for production.
     app.run_server(debug=True)
+
+# Make the application callable for Gunicorn when using "app:app"
+app = app.server  # This line makes both app and server point to the same WSGI application
