@@ -6,13 +6,45 @@ An interactive dashboard for analyzing trends and anomalies in Reddit discourse,
 
 ## Features
 
-- **Temporal Analysis**: Visualize post volume over time to identify activity spikes
-- **Community Insights**: Analyze top subreddits, authors, and domains
-- **Topic Modeling**: Use LDA and NMF to uncover latent topics in discussions
-- **Engagement Amplification Analysis**: Detect unusual engagement patterns compared to baselines
-- **Author-Topic Network Visualization**: Discover relationships between authors and topics
-- **Coordinated Activity Detection**: Find instances of coordinated posting behavior
-- **AI-Generated Insights**: Get AI-powered summaries and engage with a topic-aware chatbot
+### 1. Story Overview
+- Narrative presentation of the information surge with context
+- Timeline visualization with key events
+- Summary of main findings
+<img width="1512" alt="Screenshot 2025-05-12 at 1 58 22 AM" src="https://github.com/user-attachments/assets/0cd0da50-234f-4b84-a113-8b3dfe4d6605" />
+<img width="1512" alt="Screenshot 2025-05-12 at 1 58 29 AM" src="https://github.com/user-attachments/assets/2995e111-4a87-4ca0-95e4-7397adea171d" />
+
+### 2. Overview Analysis
+- Time series of post volume with keyword filtering
+- Top subreddits, authors and domains
+-Content word clouds
+<img width="1286" alt="Screenshot 2025-05-12 at 2 13 22 AM" src="https://github.com/user-attachments/assets/1c7820f5-3dab-4483-899e-3bfcb4fcdd67" />
+
+
+### 3. Spike Analysis
+- Comparative analysis of abnormal vs baseline periods
+- Author and subreddit activity changes during the spike
+- Domain distribution changes
+<img width="1512" alt="Screenshot 2025-05-12 at 1 58 49 AM" src="https://github.com/user-attachments/assets/00e786fe-3fe9-4019-a5ac-8bb1db6b4418" />
+
+### 4. Advanced Analysis
+- Topic modeling with LDA and NMF algorithms
+- Engagement amplification factor calculation 
+- Content similarity detection
+<img width="1512" alt="Screenshot 2025-05-12 at 1 59 04 AM" src="https://github.com/user-attachments/assets/6a1edd65-bcd1-4528-bdc2-5fc7b07e9b1f" />
+<img width="1512" alt="Screenshot 2025-05-12 at 1 58 56 AM" src="https://github.com/user-attachments/assets/e2653db2-a80c-4dd1-8081-73b40a46b98b" />
+
+### 5. Network Analysis
+- Author-topic network visualization
+- Community detection via graph clustering
+- Coordination detection between authors
+<img width="1512" alt="Screenshot 2025-05-12 at 1 59 18 AM" src="https://github.com/user-attachments/assets/35968500-aa5e-4d69-b2cd-c0c6312e10ce" />
+<img width="1512" alt="Screenshot 2025-05-12 at 1 59 13 AM" src="https://github.com/user-attachments/assets/9bd950d7-a8be-4490-8f14-14a65be20730" />
+
+### 6. AI Insights
+- AI-generated trend summaries
+- Data-aware chatbot for answering questions
+- Predictive engagement analysis
+  <img width="1512" alt="Screenshot 2025-05-12 at 1 59 31 AM" src="https://github.com/user-attachments/assets/71827095-c63b-41d3-82db-49e8677cdc60" />
 
 ## Setup Instructions
 
